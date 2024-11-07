@@ -32,6 +32,14 @@
 $ yarn install
 ```
 
+## Setting up database
+```bash
+$ docker compose up
+```
+```bash
+$ yarn prisma db push
+```
+
 ## Running the app
 
 ```bash
